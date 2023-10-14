@@ -1,7 +1,20 @@
 <div id="header" align="center">
-  <img src="https://github.com/irimialarisa22/irimialarisa22/blob/main/cover.png" width="400"/>
+  <img src="https://github.com/irimialarisa22/irimialarisa22/blob/main/cover.png" width="300"/>
   <h1>
   Hey there
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdqcmhpem16amVkamJpYTcwdWljY2tlcjduYnFhNmg5bGFpOWRtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://github.com/irimialarisa22/irimialarisa22/blob/main/hey_there.gif" width="30px"/>
 </h1>
 </div>
+
+## :woman_technologist: About Me:
+
+### :telescope: Professional Background
+My passion for software engineering extends to a commitment to creating high-quality, maintainable code and fostering a collaborative work environment.
+
+### :mountain: Hiking Enthusiast
+I'm not all about tech! I also have a passion for hiking. Exploring the beauty of nature, breathing in the fresh air, and conquering new trails are some of my favorite pastimes.
+
+### :mailbox: Contact Me
+I'm always open to connecting with fellow developers and tech enthusiasts. You can reach out to me on:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-larisa-irimia-470345206/)
