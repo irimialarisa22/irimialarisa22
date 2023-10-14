@@ -12,7 +12,7 @@
 My passion for software engineering extends to a commitment to creating maintainable code and fostering a collaborative work environment.
 
 ### :mountain: Hiking Enthusiast
-I'm not all about tech! I also have a passion for hiking. Exploring the beauty of nature, breathing in the fresh air, and conquering new trails are some of my favorite pastimes.
+I'm not all about tech! I'm an avid hiking enthusiast, and exploring the beauty of nature, breathing in the fresh air, and conquering new trails are some of my favorite pastimes.
 
 ### :mailbox: Contact Me
 I'm always open to connecting with fellow developers and tech enthusiasts. You can reach out to me on:
