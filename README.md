@@ -9,7 +9,7 @@
 ## :woman_technologist: About Me:
 
 ### :telescope: Professional Background
-My passion for software engineering extends to a commitment to creating high-quality, maintainable code and fostering a collaborative work environment.
+My passion for software engineering extends to a commitment to creating maintainable code and fostering a collaborative work environment.
 
 ### :mountain: Hiking Enthusiast
 I'm not all about tech! I also have a passion for hiking. Exploring the beauty of nature, breathing in the fresh air, and conquering new trails are some of my favorite pastimes.
